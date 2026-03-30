@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TrendPulse</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+
+<body>
+  <header>
+    <div class="logo-area">
+      <h1>TrendPulse</h1>
+      <span id="refresh-time" class="timestamp"></span>
+    </div>
+    <button id="settings-btn" title="Settings">⚙️</button>
+  </header>
+
+  <!-- Main Views -->
+  <main>
+    <!-- Trends View -->
+    <div id="trends-view" class="view">
+      <div id="trends-list" class="bento-grid">
+        <!-- Items injected here -->
+        <div class="loader">Scanning global signals...</div>
+      </div>
+    </div>
+
+    <!-- Settings View (Inline) -->
+    <div id="settings-view" class="view hidden">
+      <div class="settings-header">
+        <button id="back-btn" class="icon-btn">←</button>
+        <h2>Preferences</h2>
+      </div>
+      <div class="settings-content">
+        <div class="settings-group">
+          <label>
+            <input type="checkbox" id="notifs-enabled" checked>
+            Enable Notifications
+          </label>
+        </div>
+        <div class="settings-group">
+          <label id="notif-freq-label">Daily Frequency</label>
+          <select id="notif-freq">
+            <option value="1">1 Alert (High Priority Only)</option>
+            <option value="3" selected>3 Alerts (Balanced)</option>
+            <option value="10">10 Alerts (Pulse mode)</option>
+          </select>
+        </div>
+        <div class="settings-divider">Filter Categories</div>
+        <div class="settings-group">
+          <label class="toggle-row">
+            <span>Hide Sports</span>
+            <input type="checkbox" id="hide-sports">
+          </label>
+          <label class="toggle-row">
+            <span>Hide Celebrities</span>
+            <input type="checkbox" id="hide-celebrities">
+          </label>
+          <label class="toggle-row">
+            <span>Hide TV & Movies</span>
+            <input type="checkbox" id="hide-entertainment">
+          </label>
+        </div>
+        <div class="settings-divider">Data Sources</div>
+        <div class="settings-group">
+            <label class="toggle-row"><span>Google Search</span> <input type="checkbox" id="src-google" checked></label>
+            <label class="toggle-row"><span>Bing Search</span> <input type="checkbox" id="src-bing" checked></label>
+            <label class="toggle-row"><span>Wikipedia</span> <input type="checkbox" id="src-wiki" checked></label>
+            <label class="toggle-row"><span>Reddit</span> <input type="checkbox" id="src-reddit" checked></label>
+            <label class="toggle-row"><span>YouTube Trending</span> <input type="checkbox" id="src-youtube" checked></label>
+        </div>
+        <div class="settings-group dev-only">
+          <label>Backend Environment</label>
+          <select id="env-selector">
+            <option value="prod">Production (Cloudflare)</option>
+            <option value="local">Local Development</option>
+          </select>
+        </div>
+        <div class="settings-footer">
+          <span class="status-saved hidden">✓ Settings Saved</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Details Side-Panel -->
+    <div id="details-panel" class="side-panel hidden">
+      <div class="panel-header">
+        <button id="close-panel" class="icon-btn">×</button>
+        <h3 id="panel-title">Trend Details</h3>
+      </div>
+      <div id="panel-content" class="panel-body">
+        <!-- Dynamic content -->
+      </div>
+    </div>
+  </main>
+
+  <!-- Templates -->
+  <template id="trend-item-template">
+    <div class="trend-card">
+      <div class="card-header">
+        <div class="rank-badge">#<span class="trend-rank">1</span></div>
+        <div class="momentum-badge hidden"></div>
+        <div class="new-label hidden">NEW</div>
+      </div>
+
+      <div class="card-body">
+        <h3 class="trend-name">Topic</h3>
+        <div class="trend-metadata">Metric</div>
+      </div>
+
+      <div class="card-visual">
+        <canvas class="sparkline" width="80" height="30"></canvas>
+      </div>
+
+      <div class="card-footer">
+        <span class="source-badge">WIKI</span>
+        <div class="actions">
+          <a href="#" class="primary-link action-btn" target="_blank" title="View Source">↗️</a>
+          <a href="#" class="secondary-link action-btn hidden" target="_blank" title="News Breakdown">📰</a>
+          <button class="details-trigger action-btn" title="Details">📊</button>
+        </div>
+      </div>
+    </div>
+  </template>
+
+
+  <div id="error-state" class="hidden">
+    <p>Unable to load trends right now.</p>
+    <button id="retry-btn">Retry</button>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+
+</html>

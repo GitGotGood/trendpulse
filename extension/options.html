@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>TrendPulse Settings</title>
+    <link rel="stylesheet" href="popup.css">
+    <style>
+        body {
+            width: 400px;
+            padding-bottom: 24px;
+        }
+
+        .settings-section {
+            padding: 16px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .settings-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+
+        .settings-row label {
+            font-size: 14px;
+            font-weight: 500;
+        }
+
+        .settings-row select,
+        .settings-row input {
+            cursor: pointer;
+        }
+
+        .info-text {
+            font-size: 12px;
+            color: var(--text-sub);
+            margin-top: 4px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>TrendPulse Settings</h1>
+        <button id="close-btn" title="Close">✕</button>
+    </header>
+
+    <main>
+        <div class="settings-section">
+            <div class="settings-row">
+                <label for="notifications-enabled">Notifications Enabled</label>
+                <input type="checkbox" id="notifications-enabled">
+            </div>
+            <p class="info-text">Get notified when new trends appear spikes.</p>
+        </div>
+
+        <div class="settings-section">
+            <div class="settings-row">
+                <label for="notification-frequency">Max Daily Notifications</label>
+                <select id="notification-frequency">
+                    <option value="0">0 (None)</option>
+                    <option value="1">1 per day</option>
+                    <option value="2">2 per day</option>
+                    <option value="3" selected>3 per day</option>
+                </select>
+            </div>
+            <p class="info-text">Choose how many notifications you'd like to receive at most.</p>
+        </div>
+
+        <div class="settings-section">
+            <h3>Data Sources</h3>
+            <div class="settings-row">
+                <label for="src-google">Google Search</label>
+                <input type="checkbox" id="src-google" checked>
+            </div>
+            <div class="settings-row">
+                <label for="src-wiki">Wikipedia</label>
+                <input type="checkbox" id="src-wiki" checked>
+            </div>
+            <div class="settings-row">
+                <label for="src-reddit">Reddit</label>
+                <input type="checkbox" id="src-reddit" checked>
+            </div>
+            <div class="settings-row">
+                <label for="src-youtube">YouTube Trending</label>
+                <input type="checkbox" id="src-youtube" checked>
+            </div>
+            <p class="info-text">Uncheck a source to completely hide its trends from your feed.</p>
+        </div>
+
+        <div class="settings-section">
+            <div class="settings-row">
+                <label for="region-selector">Default Region</label>
+                <select id="region-selector" disabled title="Region support coming soon">
+                    <option value="US">United States (Default)</option>
+                </select>
+            </div>
+        </div>
+    </main>
+
+    <script src="options.js"></script>
+</body>
+
+</html>

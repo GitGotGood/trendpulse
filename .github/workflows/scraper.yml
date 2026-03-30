@@ -1,0 +1,31 @@
+name: Scraper
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Run every 30 minutes
+  workflow_dispatch: # Allow manual triggers
+
+jobs:
+  scrape-and-inject:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install Dependencies
+      run: |
+        cd scraper
+        npm ci || npm install
+
+    - name: Run Scraper
+      env:
+        TRENDPULSE_API_SECRET: ${{ secrets.TRENDPULSE_API_SECRET }}
+        TRENDPULSE_INJECT_URL: 'https://trendpulse-backend.danthedub.workers.dev/api/pulse/inject'
+      run: |
+        cd scraper
+        node index.js

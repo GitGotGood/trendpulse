@@ -1,0 +1,2733 @@
+{
+  "trends": [
+    {
+      "id": "trend_Markwayne_Mullin",
+      "canonical_topic": "Markwayne Mullin",
+      "display_name": "Markwayne Mullin",
+      "source": "wikipedia",
+      "rank": 1,
+      "score": 0.9918410056594491,
+      "primary_url": "https://en.wikipedia.org/wiki/Markwayne_Mullin",
+      "secondary_url": "https://www.google.com/search?q=Markwayne%20Mullin&tbm=nws",
+      "metadata": {
+        "views": 1089123
+      },
+      "last_seen_at": "2026-03-06T22:27:06.011Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": -0.027014797931769197,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.233Z",
+          "score": 1,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-06T22:21:01.484Z",
+          "score": 1,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-06T22:21:02.706Z",
+          "score": 1,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-06T22:27:00.732Z",
+          "score": 1.0081078874480773,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-06T22:27:02.181Z",
+          "score": 1.0188721501424254,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-06T22:27:03.402Z",
+          "score": 1.002480912360242,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-06T22:27:04.733Z",
+          "score": 1.0188558035912183,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-06T22:27:06.011Z",
+          "score": 0.9918410056594491,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "trend_Kristi_Noem",
+      "canonical_topic": "Kristi Noem",
+      "display_name": "Kristi Noem",
+      "source": "wikipedia",
+      "rank": 2,
+      "score": 0.49586168392213104,
+      "primary_url": "https://en.wikipedia.org/wiki/Kristi_Noem",
+      "secondary_url": "https://www.google.com/search?q=Kristi%20Noem&tbm=nws",
+      "metadata": {
+        "views": 665638
+      },
+      "last_seen_at": "2026-03-06T22:27:06.019Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": -0.007749412351890306,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.242Z",
+          "score": 0.5,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-06T22:21:01.490Z",
+          "score": 0.5,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-06T22:21:02.711Z",
+          "score": 0.5,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-06T22:27:00.738Z",
+          "score": 0.5019957836937111,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-06T22:27:02.188Z",
+          "score": 0.5002020004911522,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-06T22:27:03.421Z",
+          "score": 0.5037220083477243,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-06T22:27:04.742Z",
+          "score": 0.5036110962740213,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-06T22:27:06.019Z",
+          "score": 0.49586168392213104,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "trend_2026_Iran_war",
+      "canonical_topic": "2026 Iran war",
+      "display_name": "2026 Iran war",
+      "source": "wikipedia",
+      "rank": 2,
+      "score": 0.5020067713613788,
+      "primary_url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+      "secondary_url": "https://www.google.com/search?q=2026%20Iran%20war&tbm=nws",
+      "metadata": {
+        "views": 366172
+      },
+      "last_seen_at": "2026-03-10T00:21:33.386Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0.010482615160829267,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.248Z",
+          "score": 0.3333333333333333,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-06T22:21:01.517Z",
+          "score": 0.3333333333333333,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-06T22:21:02.717Z",
+          "score": 0.3333333333333333,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-06T22:27:00.750Z",
+          "score": 0.3397382383580475,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-06T22:27:02.202Z",
+          "score": 0.33149995509887675,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-06T22:27:03.438Z",
+          "score": 0.33906355191181686,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-06T22:27:04.759Z",
+          "score": 0.3299400574484263,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-06T22:27:06.024Z",
+          "score": 0.3313442966900919,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-10T00:21:32.103Z",
+          "score": 0.49152415620054957,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-10T00:21:33.386Z",
+          "score": 0.5020067713613788,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "trend_Ali_Khamenei",
+      "canonical_topic": "Ali Khamenei",
+      "display_name": "Ali Khamenei",
+      "source": "wikipedia",
+      "rank": 7,
+      "score": 0.14177162433161894,
+      "primary_url": "https://en.wikipedia.org/wiki/Ali_Khamenei",
+      "secondary_url": "https://www.google.com/search?q=Ali%20Khamenei&tbm=nws",
+      "metadata": {
+        "views": 190529
+      },
+      "last_seen_at": "2026-03-10T00:21:33.423Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": -0.0012233743474662495,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.255Z",
+          "score": 0.25,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-06T22:21:01.522Z",
+          "score": 0.25,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-06T22:21:02.721Z",
+          "score": 0.25,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-06T22:27:00.756Z",
+          "score": 0.24548028759296403,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-06T22:27:02.215Z",
+          "score": 0.2543290104742399,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-06T22:27:03.452Z",
+          "score": 0.25041298245639665,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-06T22:27:04.767Z",
+          "score": 0.2542289525113868,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-06T22:27:06.030Z",
+          "score": 0.24996771386774624,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-10T00:21:32.141Z",
+          "score": 0.1429949986790852,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-10T00:21:33.423Z",
+          "score": 0.14177162433161894,
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": "trend_James_Talarico",
+      "canonical_topic": "James Talarico",
+      "display_name": "James Talarico",
+      "source": "wikipedia",
+      "rank": 5,
+      "score": 0.20325896054009177,
+      "primary_url": "https://en.wikipedia.org/wiki/James_Talarico",
+      "secondary_url": "https://www.google.com/search?q=James%20Talarico&tbm=nws",
+      "metadata": {
+        "views": 225167
+      },
+      "last_seen_at": "2026-03-06T22:27:06.035Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0.005465594182514355,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.261Z",
+          "score": 0.2,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-06T22:21:01.528Z",
+          "score": 0.2,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-06T22:21:02.726Z",
+          "score": 0.2,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-06T22:27:00.817Z",
+          "score": 0.20053112068138518,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-06T22:27:02.222Z",
+          "score": 0.19683327260876082,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-06T22:27:03.459Z",
+          "score": 0.2024897896469888,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-06T22:27:04.774Z",
+          "score": 0.1977933663575774,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-06T22:27:06.035Z",
+          "score": 0.20325896054009177,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "trend_Lou_Holtz",
+      "canonical_topic": "Lou Holtz",
+      "display_name": "Lou Holtz",
+      "source": "wikipedia",
+      "rank": 6,
+      "score": 0.16922411239805352,
+      "primary_url": "https://en.wikipedia.org/wiki/Lou_Holtz",
+      "secondary_url": "https://www.google.com/search?q=Lou%20Holtz&tbm=nws",
+      "metadata": {
+        "views": 213726
+      },
+      "last_seen_at": "2026-03-06T22:27:06.041Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": -0.0003597058350382487,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.269Z",
+          "score": 0.16666666666666666,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-06T22:21:01.534Z",
+          "score": 0.16666666666666666,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-06T22:21:02.732Z",
+          "score": 0.16666666666666666,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-06T22:27:00.824Z",
+          "score": 0.16656441599334315,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-06T22:27:02.228Z",
+          "score": 0.1639738956493504,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-06T22:27:03.472Z",
+          "score": 0.1687394853763589,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-06T22:27:04.783Z",
+          "score": 0.16958381823309177,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-06T22:27:06.041Z",
+          "score": 0.16922411239805352,
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "id": "trend_Men's_T20_World_Cup",
+      "canonical_topic": "Men's T20 World Cup",
+      "display_name": "Men's T20 World Cup",
+      "source": "wikipedia",
+      "rank": 1,
+      "score": 1.0192807136959277,
+      "primary_url": "https://en.wikipedia.org/wiki/Men's_T20_World_Cup",
+      "secondary_url": "https://www.google.com/search?q=Men's%20T20%20World%20Cup&tbm=nws",
+      "metadata": {
+        "views": 408441
+      },
+      "last_seen_at": "2026-03-10T00:21:33.379Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0.007586160398636466,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.277Z",
+          "score": 0.14285714285714285,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-06T22:21:01.540Z",
+          "score": 0.14285714285714285,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-06T22:21:02.738Z",
+          "score": 0.14285714285714285,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-06T22:27:00.881Z",
+          "score": 0.1414184637244684,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-06T22:27:02.232Z",
+          "score": 0.1444148607125884,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-06T22:27:03.478Z",
+          "score": 0.14263509986183726,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-06T22:27:04.796Z",
+          "score": 0.14546854444274576,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-06T22:27:06.047Z",
+          "score": 0.1410983536799186,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-10T00:21:32.097Z",
+          "score": 1.0116945532972912,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-10T00:21:33.379Z",
+          "score": 1.0192807136959277,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "trend_Corey_Lewandowski",
+      "canonical_topic": "Corey Lewandowski",
+      "display_name": "Corey Lewandowski",
+      "source": "wikipedia",
+      "rank": 8,
+      "score": 0.12506289620003797,
+      "primary_url": "https://en.wikipedia.org/wiki/Corey_Lewandowski",
+      "secondary_url": "https://www.google.com/search?q=Corey%20Lewandowski&tbm=nws",
+      "metadata": {
+        "views": 189903
+      },
+      "last_seen_at": "2026-03-06T22:27:06.054Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0.0016896368002548984,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.284Z",
+          "score": 0.125,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-06T22:21:01.545Z",
+          "score": 0.125,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-06T22:21:02.744Z",
+          "score": 0.125,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-06T22:27:00.955Z",
+          "score": 0.12746236666466176,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-06T22:27:02.235Z",
+          "score": 0.12414584251373362,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-06T22:27:03.483Z",
+          "score": 0.1272154803783195,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-06T22:27:04.803Z",
+          "score": 0.12337325939978307,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-06T22:27:06.054Z",
+          "score": 0.12506289620003797,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "id": "trend_Iran",
+      "canonical_topic": "Iran",
+      "display_name": "Iran",
+      "source": "wikipedia",
+      "rank": 12,
+      "score": 0.08414495442405463,
+      "primary_url": "https://en.wikipedia.org/wiki/Iran",
+      "secondary_url": "https://www.google.com/search?q=Iran&tbm=nws",
+      "metadata": {
+        "views": 130613
+      },
+      "last_seen_at": "2026-03-10T00:21:33.458Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0.0007299141609229537,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.290Z",
+          "score": 0.1111111111111111,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-06T22:21:01.551Z",
+          "score": 0.1111111111111111,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-06T22:21:02.749Z",
+          "score": 0.1111111111111111,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-06T22:27:00.980Z",
+          "score": 0.11237398149473948,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-06T22:27:02.240Z",
+          "score": 0.11187876078347446,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-06T22:27:03.490Z",
+          "score": 0.10903183013065203,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-06T22:27:04.815Z",
+          "score": 0.10959841036255882,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-06T22:27:06.060Z",
+          "score": 0.11251993358789349,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-10T00:21:32.174Z",
+          "score": 0.08341504026313168,
+          "rank": 12
+        },
+        {
+          "t": "2026-03-10T00:21:33.458Z",
+          "score": 0.08414495442405463,
+          "rank": 12
+        }
+      ]
+    },
+    {
+      "id": "trend_IRIS_Dena",
+      "canonical_topic": "IRIS Dena",
+      "display_name": "IRIS Dena",
+      "source": "wikipedia",
+      "rank": 10,
+      "score": 0.10106865720166579,
+      "primary_url": "https://en.wikipedia.org/wiki/IRIS_Dena",
+      "secondary_url": "https://www.google.com/search?q=IRIS%20Dena&tbm=nws",
+      "metadata": {
+        "views": 163070
+      },
+      "last_seen_at": "2026-03-06T22:27:06.065Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": -0.0007600166106862954,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.299Z",
+          "score": 0.1,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-06T22:21:01.555Z",
+          "score": 0.1,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-06T22:21:02.754Z",
+          "score": 0.1,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-06T22:27:00.986Z",
+          "score": 0.09938943835769826,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-06T22:27:02.245Z",
+          "score": 0.10016538689080955,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-06T22:27:03.497Z",
+          "score": 0.09867157355636336,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-06T22:27:04.822Z",
+          "score": 0.10182867381235208,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-06T22:27:06.065Z",
+          "score": 0.10106865720166579,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "id": "trend_Deaths_in_2026",
+      "canonical_topic": "Deaths in 2026",
+      "display_name": "Deaths in 2026",
+      "source": "wikipedia",
+      "rank": 13,
+      "score": 0.07809064652688011,
+      "primary_url": "https://en.wikipedia.org/wiki/Deaths_in_2026",
+      "secondary_url": "https://www.google.com/search?q=Deaths%20in%202026&tbm=nws",
+      "metadata": {
+        "views": 130313
+      },
+      "last_seen_at": "2026-03-10T00:21:33.465Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0.0008966067907641012,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.304Z",
+          "score": 0.09090909090909091,
+          "rank": 11
+        },
+        {
+          "t": "2026-03-06T22:21:01.560Z",
+          "score": 0.09090909090909091,
+          "rank": 11
+        },
+        {
+          "t": "2026-03-06T22:21:02.760Z",
+          "score": 0.09090909090909091,
+          "rank": 11
+        },
+        {
+          "t": "2026-03-06T22:27:00.995Z",
+          "score": 0.09087419116675131,
+          "rank": 11
+        },
+        {
+          "t": "2026-03-06T22:27:02.249Z",
+          "score": 0.09098127739624479,
+          "rank": 11
+        },
+        {
+          "t": "2026-03-06T22:27:03.505Z",
+          "score": 0.09047585672149114,
+          "rank": 11
+        },
+        {
+          "t": "2026-03-06T22:27:04.829Z",
+          "score": 0.08938453665085938,
+          "rank": 11
+        },
+        {
+          "t": "2026-03-06T22:27:06.071Z",
+          "score": 0.09088529301480609,
+          "rank": 11
+        },
+        {
+          "t": "2026-03-10T00:21:32.179Z",
+          "score": 0.07719403973611601,
+          "rank": 13
+        },
+        {
+          "t": "2026-03-10T00:21:33.465Z",
+          "score": 0.07809064652688011,
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "id": "trend_Tim_Sheehy",
+      "canonical_topic": "Tim Sheehy",
+      "display_name": "Tim Sheehy",
+      "source": "wikipedia",
+      "rank": 12,
+      "score": 0.08276809212849459,
+      "primary_url": "https://en.wikipedia.org/wiki/Tim_Sheehy",
+      "secondary_url": "https://www.google.com/search?q=Tim%20Sheehy&tbm=nws",
+      "metadata": {
+        "views": 133893
+      },
+      "last_seen_at": "2026-03-06T22:27:06.077Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0.0001523257378350934,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.311Z",
+          "score": 0.08333333333333333,
+          "rank": 12
+        },
+        {
+          "t": "2026-03-06T22:21:01.565Z",
+          "score": 0.08333333333333333,
+          "rank": 12
+        },
+        {
+          "t": "2026-03-06T22:21:02.769Z",
+          "score": 0.08333333333333333,
+          "rank": 12
+        },
+        {
+          "t": "2026-03-06T22:27:00.999Z",
+          "score": 0.08212800305032127,
+          "rank": 12
+        },
+        {
+          "t": "2026-03-06T22:27:02.253Z",
+          "score": 0.08260500402433069,
+          "rank": 12
+        },
+        {
+          "t": "2026-03-06T22:27:03.545Z",
+          "score": 0.08228920515115315,
+          "rank": 12
+        },
+        {
+          "t": "2026-03-06T22:27:04.835Z",
+          "score": 0.0826157663906595,
+          "rank": 12
+        },
+        {
+          "t": "2026-03-06T22:27:06.077Z",
+          "score": 0.08276809212849459,
+          "rank": 12
+        }
+      ]
+    },
+    {
+      "id": "trend_Neatsville,_Kentucky",
+      "canonical_topic": "Neatsville, Kentucky",
+      "display_name": "Neatsville, Kentucky",
+      "source": "wikipedia",
+      "rank": 13,
+      "score": 0.07760570620409728,
+      "primary_url": "https://en.wikipedia.org/wiki/Neatsville%2C_Kentucky",
+      "secondary_url": "https://www.google.com/search?q=Neatsville%2C%20Kentucky&tbm=nws",
+      "metadata": {
+        "views": 130538
+      },
+      "last_seen_at": "2026-03-06T22:27:06.083Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0.0014834100249719873,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.317Z",
+          "score": 0.07692307692307693,
+          "rank": 13
+        },
+        {
+          "t": "2026-03-06T22:21:01.569Z",
+          "score": 0.07692307692307693,
+          "rank": 13
+        },
+        {
+          "t": "2026-03-06T22:21:02.774Z",
+          "score": 0.07692307692307693,
+          "rank": 13
+        },
+        {
+          "t": "2026-03-06T22:27:01.004Z",
+          "score": 0.07557902787566771,
+          "rank": 13
+        },
+        {
+          "t": "2026-03-06T22:27:02.256Z",
+          "score": 0.07611812442543253,
+          "rank": 13
+        },
+        {
+          "t": "2026-03-06T22:27:03.553Z",
+          "score": 0.07738826711731246,
+          "rank": 13
+        },
+        {
+          "t": "2026-03-06T22:27:04.842Z",
+          "score": 0.07612229617912529,
+          "rank": 13
+        },
+        {
+          "t": "2026-03-06T22:27:06.083Z",
+          "score": 0.07760570620409728,
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "id": "trend_Pete_Hegseth",
+      "canonical_topic": "Pete Hegseth",
+      "display_name": "Pete Hegseth",
+      "source": "wikipedia",
+      "rank": 14,
+      "score": 0.07228290698466895,
+      "primary_url": "https://en.wikipedia.org/wiki/Pete_Hegseth",
+      "secondary_url": "https://www.google.com/search?q=Pete%20Hegseth&tbm=nws",
+      "metadata": {
+        "views": 116148
+      },
+      "last_seen_at": "2026-03-06T22:27:06.089Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0.00043183030885995954,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.322Z",
+          "score": 0.07142857142857142,
+          "rank": 14
+        },
+        {
+          "t": "2026-03-06T22:21:01.573Z",
+          "score": 0.07142857142857142,
+          "rank": 14
+        },
+        {
+          "t": "2026-03-06T22:21:02.781Z",
+          "score": 0.07142857142857142,
+          "rank": 14
+        },
+        {
+          "t": "2026-03-06T22:27:01.008Z",
+          "score": 0.07202405708988506,
+          "rank": 14
+        },
+        {
+          "t": "2026-03-06T22:27:02.261Z",
+          "score": 0.07213071577782577,
+          "rank": 14
+        },
+        {
+          "t": "2026-03-06T22:27:03.565Z",
+          "score": 0.07130484274132232,
+          "rank": 14
+        },
+        {
+          "t": "2026-03-06T22:27:04.851Z",
+          "score": 0.07185107667580899,
+          "rank": 14
+        },
+        {
+          "t": "2026-03-06T22:27:06.089Z",
+          "score": 0.07228290698466895,
+          "rank": 14
+        }
+      ]
+    },
+    {
+      "id": "trend_Jasmine_Crockett",
+      "canonical_topic": "Jasmine Crockett",
+      "display_name": "Jasmine Crockett",
+      "source": "wikipedia",
+      "rank": 15,
+      "score": 0.06561723436790638,
+      "primary_url": "https://en.wikipedia.org/wiki/Jasmine_Crockett",
+      "secondary_url": "https://www.google.com/search?q=Jasmine%20Crockett&tbm=nws",
+      "metadata": {
+        "views": 102675
+      },
+      "last_seen_at": "2026-03-06T22:27:06.094Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": -0.0015371299676512074,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.328Z",
+          "score": 0.06666666666666667,
+          "rank": 15
+        },
+        {
+          "t": "2026-03-06T22:21:01.577Z",
+          "score": 0.06666666666666667,
+          "rank": 15
+        },
+        {
+          "t": "2026-03-06T22:21:02.790Z",
+          "score": 0.06666666666666667,
+          "rank": 15
+        },
+        {
+          "t": "2026-03-06T22:27:01.015Z",
+          "score": 0.06788511477107662,
+          "rank": 15
+        },
+        {
+          "t": "2026-03-06T22:27:02.265Z",
+          "score": 0.06743219384870947,
+          "rank": 15
+        },
+        {
+          "t": "2026-03-06T22:27:03.581Z",
+          "score": 0.06705926394233762,
+          "rank": 15
+        },
+        {
+          "t": "2026-03-06T22:27:04.857Z",
+          "score": 0.06715436433555759,
+          "rank": 15
+        },
+        {
+          "t": "2026-03-06T22:27:06.094Z",
+          "score": 0.06561723436790638,
+          "rank": 15
+        }
+      ]
+    },
+    {
+      "id": "trend_reilly_opelka",
+      "canonical_topic": "reilly opelka",
+      "display_name": "reilly opelka",
+      "source": "google",
+      "rank": 5,
+      "score": 2.7769792407320826,
+      "primary_url": "https://www.google.com/search?q=reilly%20opelka",
+      "secondary_url": "https://www.google.com/search?q=reilly%20opelka&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "last_seen_at": "2026-03-06T22:27:06.123Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0.0009294540647535321,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.343Z",
+          "score": 1.5,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-06T22:21:01.591Z",
+          "score": 1.5,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-06T22:21:02.810Z",
+          "score": 1.5,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-06T22:27:01.039Z",
+          "score": 2.7274546743329133,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-06T22:27:02.287Z",
+          "score": 2.793883582345619,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-06T22:27:03.605Z",
+          "score": 2.8773307787335156,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-06T22:27:04.887Z",
+          "score": 2.776049786667329,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-06T22:27:06.123Z",
+          "score": 2.7769792407320826,
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "trend_syracuse_university",
+      "canonical_topic": "syracuse university",
+      "display_name": "syracuse university",
+      "source": "google",
+      "rank": 4,
+      "score": 2.8912087481607878,
+      "primary_url": "https://www.google.com/search?q=syracuse%20university",
+      "secondary_url": "https://www.google.com/search?q=syracuse%20university&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "last_seen_at": "2026-03-06T22:27:06.118Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0.15402911284190468,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.338Z",
+          "score": 1.5,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-06T22:21:01.587Z",
+          "score": 1.5,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-06T22:21:02.804Z",
+          "score": 1.5,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-06T22:27:01.035Z",
+          "score": 2.7391359270242783,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-06T22:27:02.282Z",
+          "score": 2.8371430135405533,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-06T22:27:03.600Z",
+          "score": 2.88303372338167,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-06T22:27:04.881Z",
+          "score": 2.737179635318883,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-06T22:27:06.118Z",
+          "score": 2.8912087481607878,
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "trend_ian_huntley",
+      "canonical_topic": "ian huntley",
+      "display_name": "ian huntley",
+      "source": "google",
+      "rank": 6,
+      "score": 2.8354783554761003,
+      "primary_url": "https://www.google.com/search?q=ian%20huntley",
+      "secondary_url": "https://www.google.com/search?q=ian%20huntley&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "last_seen_at": "2026-03-06T22:27:06.131Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": -0.03187263704188226,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.350Z",
+          "score": 1.5,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-06T22:21:01.595Z",
+          "score": 1.5,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-06T22:21:02.818Z",
+          "score": 1.5,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-06T22:27:01.047Z",
+          "score": 2.744310331982927,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-06T22:27:02.291Z",
+          "score": 2.753195319190266,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-06T22:27:03.610Z",
+          "score": 2.7774324958676186,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-06T22:27:04.894Z",
+          "score": 2.8673509925179825,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-06T22:27:06.131Z",
+          "score": 2.8354783554761003,
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "id": "trend_condoleezza_rice",
+      "canonical_topic": "condoleezza rice",
+      "display_name": "condoleezza rice",
+      "source": "google",
+      "rank": 7,
+      "score": 3.024570484652293,
+      "primary_url": "https://www.google.com/search?q=condoleezza%20rice",
+      "secondary_url": "https://www.google.com/search?q=condoleezza%20rice&tbm=nws",
+      "metadata": {
+        "approx_traffic": "1000+"
+      },
+      "last_seen_at": "2026-03-06T22:27:06.135Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": -0.13740245480268687,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.354Z",
+          "score": 1.5,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-06T22:21:01.599Z",
+          "score": 1.5,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-06T22:21:02.824Z",
+          "score": 1.5,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-06T22:27:01.052Z",
+          "score": 3.11034661710825,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-06T22:27:02.295Z",
+          "score": 3.145323742002978,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-06T22:27:03.619Z",
+          "score": 3.1220119740870227,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-06T22:27:04.902Z",
+          "score": 3.16197293945498,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-06T22:27:06.135Z",
+          "score": 3.024570484652293,
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": "trend_celtics_game",
+      "canonical_topic": "celtics game",
+      "display_name": "celtics game",
+      "source": "google",
+      "rank": 8,
+      "score": 3.4277094656750804,
+      "primary_url": "https://www.google.com/search?q=celtics%20game",
+      "secondary_url": "https://www.google.com/search?q=celtics%20game&tbm=nws",
+      "metadata": {
+        "approx_traffic": "2000+"
+      },
+      "last_seen_at": "2026-03-06T22:27:06.140Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0.1094129805571602,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.361Z",
+          "score": 1.5,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-06T22:21:01.604Z",
+          "score": 1.5,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-06T22:21:02.832Z",
+          "score": 1.5,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-06T22:27:01.056Z",
+          "score": 3.3818342200093148,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-06T22:27:02.300Z",
+          "score": 3.497291092071213,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-06T22:27:03.624Z",
+          "score": 3.423092545077907,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-06T22:27:04.909Z",
+          "score": 3.31829648511792,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-06T22:27:06.140Z",
+          "score": 3.4277094656750804,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "id": "trend_how_old_is_bill_clinton",
+      "canonical_topic": "how old is bill clinton",
+      "display_name": "how old is bill clinton",
+      "source": "google",
+      "rank": 8,
+      "score": 1.5,
+      "primary_url": "https://www.google.com/search?q=how%20old%20is%20bill%20clinton",
+      "secondary_url": "https://www.google.com/search?q=how%20old%20is%20bill%20clinton&tbm=nws",
+      "metadata": {
+        "approx_traffic": "2000+"
+      },
+      "last_seen_at": "2026-03-06T22:21:02.840Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.373Z",
+          "score": 1.5,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-06T22:21:01.614Z",
+          "score": 1.5,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-06T22:21:02.840Z",
+          "score": 1.5,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "id": "trend_lorenzo_musetti",
+      "canonical_topic": "lorenzo musetti",
+      "display_name": "lorenzo musetti",
+      "source": "google",
+      "rank": 9,
+      "score": 2.8857565920831543,
+      "primary_url": "https://www.google.com/search?q=lorenzo%20musetti",
+      "secondary_url": "https://www.google.com/search?q=lorenzo%20musetti&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "last_seen_at": "2026-03-06T22:27:06.146Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": -0.009388394658492949,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.366Z",
+          "score": 1.5,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-06T22:21:01.608Z",
+          "score": 1.5,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-06T22:21:02.837Z",
+          "score": 1.5,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-06T22:27:01.063Z",
+          "score": 2.7199395368144654,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-06T22:27:02.305Z",
+          "score": 2.865162192221667,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-06T22:27:03.629Z",
+          "score": 2.846456184109797,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-06T22:27:04.918Z",
+          "score": 2.895144986741647,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-06T22:27:06.146Z",
+          "score": 2.8857565920831543,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "id": "trend_meghan_markle",
+      "canonical_topic": "meghan markle",
+      "display_name": "meghan markle",
+      "source": "google",
+      "rank": 10,
+      "score": 2.446018889069276,
+      "primary_url": "https://www.google.com/search?q=meghan%20markle",
+      "secondary_url": "https://www.google.com/search?q=meghan%20markle&tbm=nws",
+      "metadata": {
+        "approx_traffic": "200+"
+      },
+      "last_seen_at": "2026-03-06T22:27:06.150Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0.0587109909601109,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.378Z",
+          "score": 1.5,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-06T22:21:01.619Z",
+          "score": 1.5,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-06T22:21:02.846Z",
+          "score": 1.5,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-06T22:27:01.068Z",
+          "score": 2.3758634396533025,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-06T22:27:02.309Z",
+          "score": 2.3662570866920904,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-06T22:27:03.634Z",
+          "score": 2.472441891007432,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-06T22:27:04.924Z",
+          "score": 2.387307898109165,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-06T22:27:06.150Z",
+          "score": 2.446018889069276,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "id": "trend_jacob_battaglia",
+      "canonical_topic": "jacob battaglia",
+      "display_name": "jacob battaglia",
+      "source": "google",
+      "rank": 10,
+      "score": 1.5,
+      "primary_url": "https://www.google.com/search?q=jacob%20battaglia",
+      "secondary_url": "https://www.google.com/search?q=jacob%20battaglia&tbm=nws",
+      "metadata": {
+        "approx_traffic": "5000+"
+      },
+      "last_seen_at": "2026-03-06T22:21:02.853Z",
+      "is_new": false,
+      "momentum": "sustained",
+      "velocity": 0,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.384Z",
+          "score": 1.5,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-06T22:21:01.625Z",
+          "score": 1.5,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-06T22:21:02.853Z",
+          "score": 1.5,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "id": "trend_ryan_kelly",
+      "canonical_topic": "ryan kelly",
+      "display_name": "ryan kelly",
+      "source": "google",
+      "rank": 10,
+      "score": 1.5,
+      "primary_url": "https://www.google.com/search?q=ryan%20kelly",
+      "secondary_url": "https://www.google.com/search?q=ryan%20kelly&tbm=nws",
+      "metadata": {
+        "approx_traffic": "1000+"
+      },
+      "last_seen_at": "2026-03-06T22:03:56.017Z",
+      "is_new": true
+    },
+    {
+      "id": "trend_victor_olofsson",
+      "canonical_topic": "victor olofsson",
+      "display_name": "victor olofsson",
+      "source": "google",
+      "rank": 3,
+      "score": 2.711515299911519,
+      "primary_url": "https://www.google.com/search?q=victor%20olofsson",
+      "secondary_url": "https://www.google.com/search?q=victor%20olofsson&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "momentum": "sustained",
+      "velocity": -0.030412011645625014,
+      "history": [
+        {
+          "t": "2026-03-06T22:21:00.333Z",
+          "score": 1.5,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-06T22:21:01.582Z",
+          "score": 1.5,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-06T22:21:02.795Z",
+          "score": 1.5,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-06T22:27:01.030Z",
+          "score": 2.8366266640172006,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-06T22:27:02.278Z",
+          "score": 2.7412551560822562,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-06T22:27:03.595Z",
+          "score": 2.717342170349431,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-06T22:27:04.874Z",
+          "score": 2.741927311557144,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-06T22:27:06.111Z",
+          "score": 2.711515299911519,
+          "rank": 3
+        }
+      ],
+      "last_seen_at": "2026-03-06T22:27:06.111Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_ben_stiller",
+      "canonical_topic": "ben stiller",
+      "display_name": "ben stiller",
+      "source": "google",
+      "rank": 1,
+      "score": 2.788013660905634,
+      "primary_url": "https://www.google.com/search?q=ben%20stiller",
+      "secondary_url": "https://www.google.com/search?q=ben%20stiller&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "momentum": "sustained",
+      "velocity": 0.05596011922561139,
+      "history": [
+        {
+          "t": "2026-03-06T22:27:01.020Z",
+          "score": 2.721660833659598,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-06T22:27:02.270Z",
+          "score": 2.788198754135949,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-06T22:27:03.586Z",
+          "score": 2.795746585322661,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-06T22:27:04.863Z",
+          "score": 2.7320535416800227,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-06T22:27:06.099Z",
+          "score": 2.788013660905634,
+          "rank": 1
+        }
+      ],
+      "last_seen_at": "2026-03-06T22:27:06.099Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_syracuse",
+      "canonical_topic": "syracuse",
+      "display_name": "syracuse",
+      "source": "google",
+      "rank": 2,
+      "score": 2.839981740018887,
+      "primary_url": "https://www.google.com/search?q=syracuse",
+      "secondary_url": "https://www.google.com/search?q=syracuse&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "momentum": "sustained",
+      "velocity": 0.12637432297383366,
+      "history": [
+        {
+          "t": "2026-03-06T22:27:01.025Z",
+          "score": 2.7784517621695586,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-06T22:27:02.273Z",
+          "score": 2.807996703176328,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-06T22:27:03.590Z",
+          "score": 2.713173524106649,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-06T22:27:04.869Z",
+          "score": 2.7136074170450533,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-06T22:27:06.104Z",
+          "score": 2.839981740018887,
+          "rank": 2
+        }
+      ],
+      "last_seen_at": "2026-03-06T22:27:06.104Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_nuggets_vs_thunder",
+      "canonical_topic": "nuggets vs thunder",
+      "display_name": "nuggets vs thunder",
+      "source": "google",
+      "rank": 10,
+      "score": 4.408047294961404,
+      "primary_url": "https://www.google.com/search?q=nuggets%20vs%20thunder",
+      "secondary_url": "https://www.google.com/search?q=nuggets%20vs%20thunder&tbm=nws",
+      "metadata": {
+        "approx_traffic": "20000+"
+      },
+      "momentum": "sustained",
+      "velocity": -0.06949369458957655,
+      "history": [
+        {
+          "t": "2026-03-10T00:04:00.500Z",
+          "score": 4.379319389997178,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-10T00:04:02.723Z",
+          "score": 4.383942110745682,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-10T00:04:04.878Z",
+          "score": 4.436934094598519,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-10T00:05:12.075Z",
+          "score": 4.302093715708274,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-10T00:06:51.829Z",
+          "score": 4.384065906052792,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-10T00:06:52.985Z",
+          "score": 4.426352476402553,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-10T00:12:32.009Z",
+          "score": 4.4652298206449546,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-10T00:12:33.215Z",
+          "score": 4.434150943174148,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-10T00:21:32.263Z",
+          "score": 4.47754098955098,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-10T00:21:33.542Z",
+          "score": 4.408047294961404,
+          "rank": 10
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.542Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_kyle_allen",
+      "canonical_topic": "kyle allen",
+      "display_name": "kyle allen",
+      "source": "google",
+      "rank": 5,
+      "score": 2.843925526329289,
+      "primary_url": "https://www.google.com/search?q=kyle%20allen",
+      "secondary_url": "https://www.google.com/search?q=kyle%20allen&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "momentum": "sustained",
+      "velocity": 0.030985020602054103,
+      "history": [
+        {
+          "t": "2026-03-10T00:04:00.515Z",
+          "score": 2.8982212778588874,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-10T00:04:02.728Z",
+          "score": 2.817019424008584,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-10T00:04:04.883Z",
+          "score": 2.740191734701882,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-10T00:05:12.083Z",
+          "score": 2.7514951292230974,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-10T00:06:51.834Z",
+          "score": 2.760976828204517,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-10T00:06:52.994Z",
+          "score": 2.7253442679820763,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-10T00:12:32.017Z",
+          "score": 2.812940505727235,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-10T00:12:33.228Z",
+          "score": 2.843925526329289,
+          "rank": 5
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:12:33.228Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_casper_ruud",
+      "canonical_topic": "casper ruud",
+      "display_name": "casper ruud",
+      "source": "google",
+      "rank": 6,
+      "score": 2.8558070112905636,
+      "primary_url": "https://www.google.com/search?q=casper%20ruud",
+      "secondary_url": "https://www.google.com/search?q=casper%20ruud&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "momentum": "sustained",
+      "velocity": 0.02582452210447972,
+      "history": [
+        {
+          "t": "2026-03-10T00:04:00.528Z",
+          "score": 2.786629766674239,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-10T00:04:02.733Z",
+          "score": 2.824552684210936,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-10T00:04:04.892Z",
+          "score": 2.7613757297968,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-10T00:05:12.089Z",
+          "score": 2.8926038398885505,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-10T00:06:51.846Z",
+          "score": 2.8949782067654968,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-10T00:06:53.001Z",
+          "score": 2.7719645908606756,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-10T00:12:32.023Z",
+          "score": 2.829982489186084,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-10T00:12:33.241Z",
+          "score": 2.8558070112905636,
+          "rank": 6
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:12:33.241Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_rooster_cast",
+      "canonical_topic": "rooster cast",
+      "display_name": "rooster cast",
+      "source": "google",
+      "rank": 7,
+      "score": 3.877708707682806,
+      "primary_url": "https://www.google.com/search?q=rooster%20cast",
+      "secondary_url": "https://www.google.com/search?q=rooster%20cast&tbm=nws",
+      "metadata": {
+        "approx_traffic": "5000+"
+      },
+      "momentum": "sustained",
+      "velocity": 0.13037113042355797,
+      "history": [
+        {
+          "t": "2026-03-10T00:04:00.538Z",
+          "score": 3.7857890326788755,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-10T00:04:02.738Z",
+          "score": 3.771320945491849,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-10T00:04:04.897Z",
+          "score": 3.727376633255386,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-10T00:05:12.095Z",
+          "score": 3.834861420359621,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-10T00:06:51.851Z",
+          "score": 3.891640093634906,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-10T00:06:53.008Z",
+          "score": 3.7574476972435233,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-10T00:12:32.028Z",
+          "score": 3.747337577259248,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-10T00:12:33.251Z",
+          "score": 3.877708707682806,
+          "rank": 7
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:12:33.251Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_dusty_baker",
+      "canonical_topic": "dusty baker",
+      "display_name": "dusty baker",
+      "source": "google",
+      "rank": 8,
+      "score": 3.198375411507347,
+      "primary_url": "https://www.google.com/search?q=dusty%20baker",
+      "secondary_url": "https://www.google.com/search?q=dusty%20baker&tbm=nws",
+      "metadata": {
+        "approx_traffic": "1000+"
+      },
+      "momentum": "sustained",
+      "velocity": 0.08142825979471446,
+      "history": [
+        {
+          "t": "2026-03-10T00:04:00.552Z",
+          "score": 3.01653592070874,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-10T00:04:02.746Z",
+          "score": 3.0968145973781493,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-10T00:04:04.905Z",
+          "score": 3.1555775803160255,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-10T00:05:12.102Z",
+          "score": 3.166688384065252,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-10T00:06:51.857Z",
+          "score": 3.019149090815002,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-10T00:06:53.015Z",
+          "score": 3.1482879082184203,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-10T00:12:32.033Z",
+          "score": 3.1169471517126324,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-10T00:12:33.264Z",
+          "score": 3.198375411507347,
+          "rank": 8
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:12:33.264Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_furman_university",
+      "canonical_topic": "furman university",
+      "display_name": "furman university",
+      "source": "google",
+      "rank": 9,
+      "score": 3.082062540963288,
+      "primary_url": "https://www.google.com/search?q=furman%20university",
+      "secondary_url": "https://www.google.com/search?q=furman%20university&tbm=nws",
+      "metadata": {
+        "approx_traffic": "1000+"
+      },
+      "momentum": "sustained",
+      "velocity": 0.05253476822585679,
+      "history": [
+        {
+          "t": "2026-03-10T00:04:00.560Z",
+          "score": 3.111091255044804,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-10T00:04:02.753Z",
+          "score": 3.0297163487872787,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-10T00:04:04.911Z",
+          "score": 3.065249912531918,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-10T00:05:12.109Z",
+          "score": 3.0591907310704176,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-10T00:06:51.861Z",
+          "score": 3.088729444104795,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-10T00:06:53.023Z",
+          "score": 3.039870828774166,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-10T00:12:32.039Z",
+          "score": 3.0295277727374312,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-10T00:12:33.275Z",
+          "score": 3.082062540963288,
+          "rank": 9
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:12:33.275Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_elina_svitolina",
+      "canonical_topic": "elina svitolina",
+      "display_name": "elina svitolina",
+      "source": "google",
+      "rank": 10,
+      "score": 2.8589284228291003,
+      "primary_url": "https://www.google.com/search?q=elina%20svitolina",
+      "secondary_url": "https://www.google.com/search?q=elina%20svitolina&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "momentum": "sustained",
+      "velocity": 0.09015883050792439,
+      "history": [
+        {
+          "t": "2026-03-10T00:04:00.568Z",
+          "score": 2.8363495601828927,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-10T00:04:02.760Z",
+          "score": 2.824821587532506,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-10T00:04:04.915Z",
+          "score": 2.7970718326957265,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-10T00:05:12.115Z",
+          "score": 2.8743414723006353,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-10T00:06:51.866Z",
+          "score": 2.8837121575305398,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-10T00:06:53.031Z",
+          "score": 2.8787273945831675,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-10T00:12:32.045Z",
+          "score": 2.768769592321176,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-10T00:12:33.289Z",
+          "score": 2.8589284228291003,
+          "rank": 10
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:12:33.289Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_georgia_southern_basketball",
+      "canonical_topic": "georgia southern basketball",
+      "display_name": "georgia southern basketball",
+      "source": "google",
+      "rank": 8,
+      "score": 2.797426920542014,
+      "primary_url": "https://www.google.com/search?q=georgia%20southern%20basketball",
+      "secondary_url": "https://www.google.com/search?q=georgia%20southern%20basketball&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "momentum": "new",
+      "velocity": 0,
+      "history": [
+        {
+          "t": "2026-03-10T00:04:00.577Z",
+          "score": 2.797426920542014,
+          "rank": 8
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:04:00.577Z",
+      "is_new": true
+    },
+    {
+      "id": "trend_top_chef_2026",
+      "canonical_topic": "top chef 2026",
+      "display_name": "top chef 2026",
+      "source": "google",
+      "rank": 9,
+      "score": 2.891422271849925,
+      "primary_url": "https://www.google.com/search?q=top%20chef%202026",
+      "secondary_url": "https://www.google.com/search?q=top%20chef%202026&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "momentum": "new",
+      "velocity": 0,
+      "history": [
+        {
+          "t": "2026-03-10T00:04:00.584Z",
+          "score": 2.891422271849925,
+          "rank": 9
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:04:00.584Z",
+      "is_new": true
+    },
+    {
+      "id": "trend_ryan_seacrest",
+      "canonical_topic": "ryan seacrest",
+      "display_name": "ryan seacrest",
+      "source": "google",
+      "rank": 10,
+      "score": 3.4483379687269897,
+      "primary_url": "https://www.google.com/search?q=ryan%20seacrest",
+      "secondary_url": "https://www.google.com/search?q=ryan%20seacrest&tbm=nws",
+      "metadata": {
+        "approx_traffic": "2000+"
+      },
+      "momentum": "new",
+      "velocity": 0,
+      "history": [
+        {
+          "t": "2026-03-10T00:04:00.593Z",
+          "score": 3.4483379687269897,
+          "rank": 10
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:04:00.593Z",
+      "is_new": true
+    },
+    {
+      "id": "trend_aaron_gordon",
+      "canonical_topic": "aaron gordon",
+      "display_name": "aaron gordon",
+      "source": "google",
+      "rank": 8,
+      "score": 3.122282129663043,
+      "primary_url": "https://www.google.com/search?q=aaron%20gordon",
+      "secondary_url": "https://www.google.com/search?q=aaron%20gordon&tbm=nws",
+      "metadata": {
+        "approx_traffic": "1000+"
+      },
+      "momentum": "sustained",
+      "velocity": -0.06295627881062549,
+      "history": [
+        {
+          "t": "2026-03-10T00:04:02.705Z",
+          "score": 2.7095280201282974,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-10T00:04:04.860Z",
+          "score": 2.828811716562609,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-10T00:05:12.055Z",
+          "score": 2.8287925300239136,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-10T00:06:51.782Z",
+          "score": 2.7878031961681637,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-10T00:06:52.960Z",
+          "score": 2.7859604310684816,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-10T00:12:31.984Z",
+          "score": 2.8779264556485664,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-10T00:12:33.151Z",
+          "score": 2.742465427979974,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-10T00:21:32.248Z",
+          "score": 3.1852384084736687,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-10T00:21:33.531Z",
+          "score": 3.122282129663043,
+          "rank": 8
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.531Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_fox_sports",
+      "canonical_topic": "fox sports",
+      "display_name": "fox sports",
+      "source": "google",
+      "rank": 7,
+      "score": 3.143871880580585,
+      "primary_url": "https://www.google.com/search?q=fox%20sports",
+      "secondary_url": "https://www.google.com/search?q=fox%20sports&tbm=nws",
+      "metadata": {
+        "approx_traffic": "1000+"
+      },
+      "momentum": "sustained",
+      "velocity": 0.10727698097789551,
+      "history": [
+        {
+          "t": "2026-03-10T00:04:02.711Z",
+          "score": 3.043611634416708,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-10T00:04:04.865Z",
+          "score": 3.116827406239283,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-10T00:05:12.062Z",
+          "score": 3.111129822526665,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-10T00:06:51.801Z",
+          "score": 3.096908285086249,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-10T00:06:52.968Z",
+          "score": 3.0444100793426516,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-10T00:12:31.993Z",
+          "score": 3.011197275758246,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-10T00:12:33.177Z",
+          "score": 3.1513370200341617,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-10T00:21:32.236Z",
+          "score": 3.0365948996026897,
+          "rank": 7
+        },
+        {
+          "t": "2026-03-10T00:21:33.525Z",
+          "score": 3.143871880580585,
+          "rank": 7
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.525Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_manny_barreda",
+      "canonical_topic": "manny barreda",
+      "display_name": "manny barreda",
+      "source": "google",
+      "rank": 9,
+      "score": 2.8560224241961367,
+      "primary_url": "https://www.google.com/search?q=manny%20barreda",
+      "secondary_url": "https://www.google.com/search?q=manny%20barreda&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "momentum": "sustained",
+      "velocity": 0.030760181995658886,
+      "history": [
+        {
+          "t": "2026-03-10T00:04:02.717Z",
+          "score": 2.3926123967057467,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-10T00:04:04.871Z",
+          "score": 2.3437698881405007,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-10T00:05:12.067Z",
+          "score": 2.332581046845118,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-10T00:06:51.818Z",
+          "score": 2.417079204268509,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-10T00:06:52.978Z",
+          "score": 2.358945137621611,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-10T00:12:32.002Z",
+          "score": 2.3133119116742202,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-10T00:12:33.201Z",
+          "score": 2.365265507471133,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-10T00:21:32.255Z",
+          "score": 2.825262242200478,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-10T00:21:33.536Z",
+          "score": 2.8560224241961367,
+          "rank": 9
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.536Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_Soham_murders",
+      "canonical_topic": "Soham murders",
+      "display_name": "Soham murders",
+      "source": "wikipedia",
+      "rank": 3,
+      "score": 0.3382995633133031,
+      "primary_url": "https://en.wikipedia.org/wiki/Soham_murders",
+      "secondary_url": "https://www.google.com/search?q=Soham%20murders&tbm=nws",
+      "metadata": {
+        "views": 310431
+      },
+      "momentum": "sustained",
+      "velocity": -0.0013027419861629252,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.110Z",
+          "score": 0.339602305299466,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-10T00:21:33.396Z",
+          "score": 0.3382995633133031,
+          "rank": 3
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.396Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_International_Women's_Day",
+      "canonical_topic": "International Women's Day",
+      "display_name": "International Women's Day",
+      "source": "wikipedia",
+      "rank": 4,
+      "score": 0.2546086069338911,
+      "primary_url": "https://en.wikipedia.org/wiki/International_Women's_Day",
+      "secondary_url": "https://www.google.com/search?q=International%20Women's%20Day&tbm=nws",
+      "metadata": {
+        "views": 282080
+      },
+      "momentum": "sustained",
+      "velocity": 0.006368526191831758,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.118Z",
+          "score": 0.24824008074205933,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-10T00:21:33.403Z",
+          "score": 0.2546086069338911,
+          "rank": 4
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.403Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_Mojtaba_Khamenei",
+      "canonical_topic": "Mojtaba Khamenei",
+      "display_name": "Mojtaba Khamenei",
+      "source": "wikipedia",
+      "rank": 5,
+      "score": 0.20338833787591484,
+      "primary_url": "https://en.wikipedia.org/wiki/Mojtaba_Khamenei",
+      "secondary_url": "https://www.google.com/search?q=Mojtaba%20Khamenei&tbm=nws",
+      "metadata": {
+        "views": 233402
+      },
+      "momentum": "sustained",
+      "velocity": 0.003544367749691052,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.126Z",
+          "score": 0.1998439701262238,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-10T00:21:33.410Z",
+          "score": 0.20338833787591484,
+          "rank": 5
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.410Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_War_Machine_(2026_film)",
+      "canonical_topic": "War Machine (2026 film)",
+      "display_name": "War Machine (2026 film)",
+      "source": "wikipedia",
+      "rank": 6,
+      "score": 0.16646496246829062,
+      "primary_url": "https://en.wikipedia.org/wiki/War_Machine_(2026_film)",
+      "secondary_url": "https://www.google.com/search?q=War%20Machine%20(2026%20film)&tbm=nws",
+      "metadata": {
+        "views": 203667
+      },
+      "momentum": "sustained",
+      "velocity": -0.00206906680154062,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.133Z",
+          "score": 0.16853402926983124,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-10T00:21:33.417Z",
+          "score": 0.16646496246829062,
+          "rank": 6
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.417Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_UFC_326",
+      "canonical_topic": "UFC 326",
+      "display_name": "UFC 326",
+      "source": "wikipedia",
+      "rank": 8,
+      "score": 0.12270246221977574,
+      "primary_url": "https://en.wikipedia.org/wiki/UFC_326",
+      "secondary_url": "https://www.google.com/search?q=UFC%20326&tbm=nws",
+      "metadata": {
+        "views": 183723
+      },
+      "momentum": "sustained",
+      "velocity": -0.00033521956963687705,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.148Z",
+          "score": 0.12303768178941261,
+          "rank": 8
+        },
+        {
+          "t": "2026-03-10T00:21:33.432Z",
+          "score": 0.12270246221977574,
+          "rank": 8
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.432Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_Sanju_Samson",
+      "canonical_topic": "Sanju Samson",
+      "display_name": "Sanju Samson",
+      "source": "wikipedia",
+      "rank": 9,
+      "score": 0.11037203951103346,
+      "primary_url": "https://en.wikipedia.org/wiki/Sanju_Samson",
+      "secondary_url": "https://www.google.com/search?q=Sanju%20Samson&tbm=nws",
+      "metadata": {
+        "views": 168876
+      },
+      "momentum": "sustained",
+      "velocity": 0.001362520566180886,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.155Z",
+          "score": 0.10900951894485257,
+          "rank": 9
+        },
+        {
+          "t": "2026-03-10T00:21:33.439Z",
+          "score": 0.11037203951103346,
+          "rank": 9
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.439Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_Jasprit_Bumrah",
+      "canonical_topic": "Jasprit Bumrah",
+      "display_name": "Jasprit Bumrah",
+      "source": "wikipedia",
+      "rank": 10,
+      "score": 0.10022637978438736,
+      "primary_url": "https://en.wikipedia.org/wiki/Jasprit_Bumrah",
+      "secondary_url": "https://www.google.com/search?q=Jasprit%20Bumrah&tbm=nws",
+      "metadata": {
+        "views": 137662
+      },
+      "momentum": "sustained",
+      "velocity": -0.001436347078196551,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.161Z",
+          "score": 0.10166272686258392,
+          "rank": 10
+        },
+        {
+          "t": "2026-03-10T00:21:33.446Z",
+          "score": 0.10022637978438736,
+          "rank": 10
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.446Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_Arvid_Lindblad",
+      "canonical_topic": "Arvid Lindblad",
+      "display_name": "Arvid Lindblad",
+      "source": "wikipedia",
+      "rank": 11,
+      "score": 0.09059820681988644,
+      "primary_url": "https://en.wikipedia.org/wiki/Arvid_Lindblad",
+      "secondary_url": "https://www.google.com/search?q=Arvid%20Lindblad&tbm=nws",
+      "metadata": {
+        "views": 135156
+      },
+      "momentum": "sustained",
+      "velocity": 0.0003052746047714633,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.168Z",
+          "score": 0.09029293221511497,
+          "rank": 11
+        },
+        {
+          "t": "2026-03-10T00:21:33.452Z",
+          "score": 0.09059820681988644,
+          "rank": 11
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.452Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_John_F._Kennedy_Jr.",
+      "canonical_topic": "John F. Kennedy Jr.",
+      "display_name": "John F. Kennedy Jr.",
+      "source": "wikipedia",
+      "rank": 14,
+      "score": 0.07012229760512281,
+      "primary_url": "https://en.wikipedia.org/wiki/John_F._Kennedy_Jr.",
+      "secondary_url": "https://www.google.com/search?q=John%20F.%20Kennedy%20Jr.&tbm=nws",
+      "metadata": {
+        "views": 123613
+      },
+      "momentum": "sustained",
+      "velocity": -0.00016590959739450073,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.184Z",
+          "score": 0.07028820720251731,
+          "rank": 14
+        },
+        {
+          "t": "2026-03-10T00:21:33.473Z",
+          "score": 0.07012229760512281,
+          "rank": 14
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.473Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_Daylight_saving_time",
+      "canonical_topic": "Daylight saving time",
+      "display_name": "Daylight saving time",
+      "source": "wikipedia",
+      "rank": 15,
+      "score": 0.06609337604437679,
+      "primary_url": "https://en.wikipedia.org/wiki/Daylight_saving_time",
+      "secondary_url": "https://www.google.com/search?q=Daylight%20saving%20time&tbm=nws",
+      "metadata": {
+        "views": 122182
+      },
+      "momentum": "sustained",
+      "velocity": -0.0009258573990939406,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.191Z",
+          "score": 0.06701923344347073,
+          "rank": 15
+        },
+        {
+          "t": "2026-03-10T00:21:33.481Z",
+          "score": 0.06609337604437679,
+          "rank": 15
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.481Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_jarren_duran",
+      "canonical_topic": "jarren duran",
+      "display_name": "jarren duran",
+      "source": "google",
+      "rank": 1,
+      "score": 3.7238425785106943,
+      "primary_url": "https://www.google.com/search?q=jarren%20duran",
+      "secondary_url": "https://www.google.com/search?q=jarren%20duran&tbm=nws",
+      "metadata": {
+        "approx_traffic": "5000+"
+      },
+      "momentum": "sustained",
+      "velocity": -0.12889628682544219,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.196Z",
+          "score": 3.8527388653361365,
+          "rank": 1
+        },
+        {
+          "t": "2026-03-10T00:21:33.489Z",
+          "score": 3.7238425785106943,
+          "rank": 1
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.489Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_maria_sakkari",
+      "canonical_topic": "maria sakkari",
+      "display_name": "maria sakkari",
+      "source": "google",
+      "rank": 2,
+      "score": 2.7253828460106537,
+      "primary_url": "https://www.google.com/search?q=maria%20sakkari",
+      "secondary_url": "https://www.google.com/search?q=maria%20sakkari&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "momentum": "sustained",
+      "velocity": -0.010413751955464345,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.203Z",
+          "score": 2.735796597966118,
+          "rank": 2
+        },
+        {
+          "t": "2026-03-10T00:21:33.495Z",
+          "score": 2.7253828460106537,
+          "rank": 2
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.495Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_randy_arozarena",
+      "canonical_topic": "randy arozarena",
+      "display_name": "randy arozarena",
+      "source": "google",
+      "rank": 3,
+      "score": 2.849641605516811,
+      "primary_url": "https://www.google.com/search?q=randy%20arozarena",
+      "secondary_url": "https://www.google.com/search?q=randy%20arozarena&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "momentum": "sustained",
+      "velocity": 0.029843677340080088,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.210Z",
+          "score": 2.819797928176731,
+          "rank": 3
+        },
+        {
+          "t": "2026-03-10T00:21:33.500Z",
+          "score": 2.849641605516811,
+          "rank": 3
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.500Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_iga_świątek",
+      "canonical_topic": "iga świątek",
+      "display_name": "iga świątek",
+      "source": "google",
+      "rank": 4,
+      "score": 2.845858817441078,
+      "primary_url": "https://www.google.com/search?q=iga%20%C5%9Bwi%C4%85tek",
+      "secondary_url": "https://www.google.com/search?q=iga%20%C5%9Bwi%C4%85tek&tbm=nws",
+      "metadata": {
+        "approx_traffic": "500+"
+      },
+      "momentum": "sustained",
+      "velocity": -0.04919078222979145,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.216Z",
+          "score": 2.8950495996708696,
+          "rank": 4
+        },
+        {
+          "t": "2026-03-10T00:21:33.507Z",
+          "score": 2.845858817441078,
+          "rank": 4
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.507Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_quentin_grimes",
+      "canonical_topic": "quentin grimes",
+      "display_name": "quentin grimes",
+      "source": "google",
+      "rank": 5,
+      "score": 2.4691755490479554,
+      "primary_url": "https://www.google.com/search?q=quentin%20grimes",
+      "secondary_url": "https://www.google.com/search?q=quentin%20grimes&tbm=nws",
+      "metadata": {
+        "approx_traffic": "200+"
+      },
+      "momentum": "sustained",
+      "velocity": 0.11618574942096727,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.223Z",
+          "score": 2.352989799626988,
+          "rank": 5
+        },
+        {
+          "t": "2026-03-10T00:21:33.513Z",
+          "score": 2.4691755490479554,
+          "rank": 5
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.513Z",
+      "is_new": false
+    },
+    {
+      "id": "trend_xo_kitty_season_3",
+      "canonical_topic": "xo kitty season 3",
+      "display_name": "xo kitty season 3",
+      "source": "google",
+      "rank": 6,
+      "score": 2.380603485287697,
+      "primary_url": "https://www.google.com/search?q=xo%20kitty%20season%203",
+      "secondary_url": "https://www.google.com/search?q=xo%20kitty%20season%203&tbm=nws",
+      "metadata": {
+        "approx_traffic": "200+"
+      },
+      "momentum": "sustained",
+      "velocity": 0.03413502095190868,
+      "history": [
+        {
+          "t": "2026-03-10T00:21:32.230Z",
+          "score": 2.3464684643357883,
+          "rank": 6
+        },
+        {
+          "t": "2026-03-10T00:21:33.520Z",
+          "score": 2.380603485287697,
+          "rank": 6
+        }
+      ],
+      "last_seen_at": "2026-03-10T00:21:33.520Z",
+      "is_new": false
+    }
+  ]
+}

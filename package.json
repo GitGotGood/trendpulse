@@ -1,0 +1,11 @@
+{
+    "name": "trendpulse-root",
+    "version": "1.0.0",
+    "scripts": {
+        "test:e2e": "playwright test",
+        "validate": "node scripts/validate_system.cjs"
+    },
+    "devDependencies": {
+        "@playwright/test": "^1.40.0"
+    }
+}
