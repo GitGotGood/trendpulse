@@ -78,7 +78,7 @@ export default {
                 
                 // Add your shared secret as an Environment Variable (API_SECRET) later, 
                 // but for now we hardcode a basic check to prevent spam
-                if (!body.secret || body.secret !== (env as any).TRENDPULSE_API_SECRET && body.secret !== 'local-dev-secret') {
+                if (!body.secret || body.secret !== (env as any).TRENDPULSE_API_SECRET && body.secret !== 'local-dev-secret-xyz') {
                     return new Response('Unauthorized', { status: 401 });
                 }
 

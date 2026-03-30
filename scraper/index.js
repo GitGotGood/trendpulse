@@ -2,7 +2,7 @@ const Parser = require('rss-parser');
 const https = require('https');
 
 const INJECT_URL = process.env.TRENDPULSE_INJECT_URL || 'https://trendpulse-backend.danthedub.workers.dev/api/pulse/inject';
-const API_SECRET = process.env.TRENDPULSE_API_SECRET || 'local-dev-secret';
+const API_SECRET = process.env.TRENDPULSE_API_SECRET || 'local-dev-secret-xyz';
 
 async function fetchGoogleTrends() {
     const results = [];
