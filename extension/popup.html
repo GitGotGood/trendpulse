@@ -14,7 +14,10 @@
       <h1>TrendPulse</h1>
       <span id="refresh-time" class="timestamp"></span>
     </div>
-    <button id="settings-btn" title="Settings">⚙️</button>
+    <div class="header-actions" style="display:flex;gap:5px;">
+      <button id="history-btn" class="icon-btn" title="Daily History" style="border:none;background:none;cursor:pointer;font-size:18px;">📅</button>
+      <button id="settings-btn" class="icon-btn" title="Settings" style="border:none;background:none;cursor:pointer;font-size:18px;">⚙️</button>
+    </div>
   </header>
 
   <!-- Main Views -->
@@ -24,6 +27,17 @@
       <div id="trends-list" class="bento-grid">
         <!-- Items injected here -->
         <div class="loader">Scanning global signals...</div>
+      </div>
+    </div>
+
+    <!-- History View (Inline) -->
+    <div id="history-view" class="view hidden">
+      <div class="settings-header">
+        <button id="history-back-btn" class="icon-btn">←</button>
+        <h2>Daily Top 10</h2>
+      </div>
+      <div id="history-content" class="history-content" style="padding: 10px; overflow-y: auto; max-height: 480px;">
+         <div class="loader">Loading history...</div>
       </div>
     </div>
 

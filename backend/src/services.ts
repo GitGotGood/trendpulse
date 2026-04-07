@@ -147,11 +147,24 @@ export class TrendService {
             }
         }
 
-        // Decay Query
+        // Decay Query & Top 10 Snapshot Logging
         try {
             await this.db.prepare(`UPDATE trends SET score = score * 0.8 WHERE last_seen_at < ?`).bind(now).run();
+            
+            // Take the daily snapshot for history
+            const { results: top10 } = await this.db.prepare(
+                `SELECT id, canonical_topic, display_name, source, rank, score, primary_url, is_new, momentum
+                 FROM trends ORDER BY score DESC, last_seen_at DESC LIMIT 10`
+            ).all<any>();
+            
+            if (top10 && top10.length > 0) {
+                const today = new Date().toISOString().split('T')[0];
+                await this.db.prepare(
+                    `INSERT OR REPLACE INTO daily_snapshots (date, top_10_json) VALUES (?, ?)`
+                ).bind(today, JSON.stringify(top10)).run();
+            }
         } catch (e) {
-            console.error('[TrendService] Decay failed:', e);
+            console.error('[TrendService] Decay/Snapshot failed:', e);
         }
     }
 

@@ -43,3 +43,9 @@ CREATE TABLE IF NOT EXISTS notification_logs (
     sent_at DATETIME DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY(trend_id) REFERENCES trends(id)
 );
+
+-- Daily Top 10 Snapshots for history view
+CREATE TABLE IF NOT EXISTS daily_snapshots (
+    date TEXT PRIMARY KEY,
+    top_10_json TEXT NOT NULL
+);

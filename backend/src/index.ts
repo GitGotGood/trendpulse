@@ -42,6 +42,26 @@ export default {
             }
         }
 
+        if (url.pathname === '/api/trends/history') {
+            try {
+                const { results } = await dbAdapter.prepare(
+                    `SELECT * FROM daily_snapshots ORDER BY date DESC LIMIT 7`
+                ).all();
+                
+                // Parse the JSON string back into objects
+                const history = results.map((r: any) => ({
+                    date: r.date,
+                    trends: JSON.parse(r.top_10_json)
+                }));
+
+                return new Response(JSON.stringify({ success: true, history }), {
+                    headers: { 'Content-Type': 'application/json; charset=utf-8', 'Access-Control-Allow-Origin': '*' }
+                });
+            } catch (e: any) {
+                return new Response(JSON.stringify({ error: e.message }), { status: 500, headers: { 'Access-Control-Allow-Origin': '*' } });
+            }
+        }
+
         if (url.pathname === '/api/debug/poll' && request.method === 'POST') {
             try {
                 // Perform fetches synchronously but offload the heavy AI/DB work to ctx.waitUntil
@@ -76,9 +96,8 @@ export default {
             try {
                 const body: any = await request.json();
                 
-                // Add your shared secret as an Environment Variable (API_SECRET) later, 
-                // but for now we hardcode a basic check to prevent spam
-                if (!body.secret || body.secret !== (env as any).TRENDPULSE_API_SECRET && body.secret !== 'local-dev-secret-xyz') {
+                // Use the TRENDPULSE_API_SECRET environment variable
+                if (!body.secret || body.secret !== (env as any).TRENDPULSE_API_SECRET) {
                     return new Response('Unauthorized', { status: 401 });
                 }
 

@@ -2,7 +2,12 @@ const Parser = require('rss-parser');
 const https = require('https');
 
 const INJECT_URL = process.env.TRENDPULSE_INJECT_URL || 'https://trendpulse-backend.danthedub.workers.dev/api/pulse/inject';
-const API_SECRET = process.env.TRENDPULSE_API_SECRET || 'local-dev-secret-xyz';
+const API_SECRET = process.env.TRENDPULSE_API_SECRET;
+
+if (!API_SECRET) {
+    console.error('❌ Error: TRENDPULSE_API_SECRET environment variable is missing.');
+    process.exit(1);
+}
 
 async function fetchGoogleTrends() {
     const results = [];

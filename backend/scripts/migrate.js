@@ -23,7 +23,10 @@ if (!DB_ID) {
     process.exit(1);
 }
 
-const sql = `ALTER TABLE trends ADD COLUMN description TEXT;`;
+const sql = `CREATE TABLE IF NOT EXISTS daily_snapshots (
+    date TEXT PRIMARY KEY,
+    top_10_json TEXT NOT NULL
+);`;
 
 async function migrate() {
     console.log(`🚀 Applying migration to D1 (${DB_ID})...`);

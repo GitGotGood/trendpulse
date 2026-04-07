@@ -20,9 +20,9 @@ if (!ACCOUNT_ID || !API_TOKEN) {
 // 0. Parse wrangler.toml for dynamic config
 const wranglerToml = fs.readFileSync(path.join(__dirname, '../wrangler.toml'), 'utf8');
 const SCRIPT_NAME = wranglerToml.match(/name = "(.*?)"/)?.[1] || 'trendpulse-backend';
-const DB_ID = wranglerToml.match(/database_id = "(.*?)"/)?.[1];
+const DB_ID = process.env.CLOUDFLARE_D1_ID || wranglerToml.match(/database_id = "(.*?)"/)?.[1];
 
-if (!DB_ID || DB_ID === 'to-be-created-id') {
+if (!DB_ID || DB_ID === 'to-be-created-id' || DB_ID === 'YOUR-D1-DATABASE-ID') {
     console.warn('⚠️ Warning: database_id is missing or placeholder. D1 binding might fail.');
 }
 

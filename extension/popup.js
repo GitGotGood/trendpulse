@@ -67,12 +67,18 @@ function initUI() {
 
     const settingsBtn = document.getElementById('settings-btn');
     const backBtn = document.getElementById('back-btn');
+    
+    const historyBtn = document.getElementById('history-btn');
+    const historyBackBtn = document.getElementById('history-back-btn');
+
     const trendsView = document.getElementById('trends-view');
     const settingsView = document.getElementById('settings-view');
+    const historyView = document.getElementById('history-view');
 
     if (settingsBtn) {
         settingsBtn.addEventListener('click', () => {
             trendsView.classList.add('hidden');
+            historyView.classList.add('hidden');
             settingsView.classList.remove('hidden');
         });
     }
@@ -80,6 +86,22 @@ function initUI() {
     if (backBtn) {
         backBtn.addEventListener('click', () => {
             settingsView.classList.add('hidden');
+            trendsView.classList.remove('hidden');
+        });
+    }
+
+    if (historyBtn) {
+        historyBtn.addEventListener('click', () => {
+            trendsView.classList.add('hidden');
+            settingsView.classList.add('hidden');
+            historyView.classList.remove('hidden');
+            fetchAndRenderHistory();
+        });
+    }
+
+    if (historyBackBtn) {
+        historyBackBtn.addEventListener('click', () => {
+            historyView.classList.add('hidden');
             trendsView.classList.remove('hidden');
         });
     }
@@ -531,4 +553,50 @@ async function getCachedTrends() {
             }
         });
     });
+}
+
+/**
+ * Fetch and Render History
+ */
+async function fetchAndRenderHistory() {
+    const container = document.getElementById('history-content');
+    if (!container) return;
+    
+    container.innerHTML = '<div class="loader">Loading history...</div>';
+    
+    try {
+        const response = await fetch(`${BACKEND_URL}/api/trends/history`);
+        if (!response.ok) throw new Error('Failed to fetch history');
+        
+        const data = await response.json();
+        const historyData = data.history || [];
+        
+        if (historyData.length === 0) {
+            container.innerHTML = '<div style="text-align:center;padding:20px;color:#666;">No daily snapshots recorded yet.</div>';
+            return;
+        }
+        
+        container.innerHTML = historyData.map(day => `
+            <div style="margin-bottom: 20px; background: #fafafa; border: 1px solid #eee; border-radius: 8px; padding: 12px;">
+                <h3 style="margin: 0 0 10px 0; font-size: 14px; font-weight: 600; color: #111; border-bottom: 1px solid #ddd; padding-bottom: 5px;">
+                    📅 ${new Date(day.date).toLocaleDateString(undefined, { weekday: 'long', year: 'numeric', month: 'short', day: 'numeric' })}
+                </h3>
+                <div style="display:flex; flex-direction:column; gap:8px;">
+                    ${(day.trends || []).map((t, idx) => `
+                        <div style="display:flex; align-items:flex-start; gap:10px; background:white; padding:8px; border-radius:6px; box-shadow:0 1px 2px rgba(0,0,0,0.05);">
+                            <div style="font-weight:bold; color:#777; width:20px; text-align:right;">${idx + 1}</div>
+                            <div style="flex:1;">
+                                <div style="font-size:13px; font-weight:500; color:#222;">${toTitleCase(decodeEntities(t.display_name))}</div>
+                                <div style="font-size:11px; color:#888; text-transform:uppercase;">${t.source} • Score: ${Number(t.score).toFixed(1)}</div>
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `).join('');
+        
+    } catch (err) {
+        console.error(err);
+        container.innerHTML = '<div style="color:red;padding:10px;">Error loading history.</div>';
+    }
 }
